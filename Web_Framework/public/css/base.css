@@ -1,0 +1,73 @@
+html, body, .container, .home
+{   
+    width: 960px;
+    height: 480px; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.clear {
+    clear: both;
+}
+
+header {
+
+    padding-top: 10px;
+    background-color: none;
+    font-family: Georgia;
+    font-size: 40px;
+    color: #b50000;
+    text-align: center;
+    text-decoration: overline;
+}
+
+h2 {
+    font-family: Century Gothic;
+    font-weight: normal;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    vertical-align: middle;
+}
+
+h3 {
+    font-family: Century Gothic;
+    font-weight: bold;
+    font-size: 18px;
+    color: black;
+    text-align: center;
+    vertical-align: middle;
+}
+
+p {
+    font-family: Century Gothic;
+    font-weight: normal;
+    text-align: justify; 
+    color: black;
+}
+
+p2 {
+    font-family: Century Gothic;
+    font-weight: bold;
+    text-align: justify; 
+    color: rgb(111,180,46);
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color: #b50000;
+}
+
+a:hover, a:active {
+    color: rgb(111,180,46);
+}
+
+.footer {
+  position: bottom;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+}
