@@ -1,7 +1,6 @@
-// miniWeb.js
-// by Hashim Hayat (hh1316)
-// New York University - Spring'17 - AIT
-// define your Request, Response and App objects here
+// Created by Hashim Hayat (hh1316)
+// New York University
+// Defination of Request, Response and App objects here
 
 const net = require('net');
 
