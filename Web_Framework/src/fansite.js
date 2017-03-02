@@ -1,6 +1,6 @@
-// fansite.js
-// by Hashim Hayat (hh1316)
-// New York University - Spring'17 - AIT
+// Sample Website
+// Created by by Hashim Hayat (hh1316)
+// New York University
 // creating fansite using miniWeb framework
 
 const App = require('./miniWeb.js').App;
